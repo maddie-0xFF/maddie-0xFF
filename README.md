@@ -16,7 +16,7 @@ Passionate student who enjoy blending creativity with code
 | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/maddie-0xFF/stayIn/main/assets/raccoon.png" width="100px"> | <img src="https://raw.githubusercontent.com/maddie-0xFF/tamagotchi/main/assets/nibbit.png" width="100px"> | <img src="https://raw.githubusercontent.com/maddie-0xFF/Checklist-/main/assets/check.png" width="100px"> |
 | 🦝 A cozy Pomodoro timer to help you focus and stay productive! | 🐇 Meet Nibbit! Your virtual pet companion that needs love, food, and attention | ✅ A clean and simple task tracker built with HTML & CSS |
-| Python - Productivity | JavaScript Game Dev Interactive | HTML CSS Beginner Friendly |
+| Python - Productivity | pygame - Interactive | HTML CSS Beginner Friendly |
 | <a href="https://github.com/maddie-0xFF/stayIn" target="_blank">View Repository</a> | <a href="https://github.com/maddie-0xFF/tamagotchi" target="_blank">View Repository</a> | <a href="https://github.com/maddie-0xFF/Checklist-" target="_blank">View Repository</a> |
 
 <br/>
